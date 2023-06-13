@@ -1,7 +1,7 @@
 # EDA-Project
  EDA stands for Exploratory Data Analysis, it is basically an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
  Here, I have analysed the uber data set with the help of pandas,matplotlib,seaborn libraries.
- My main Project Goals were:
+ My main Project Goals are:
  1. From which loaction maximum number uber rides are initiated?
 2. Which is the most common destination?
 3. What are the different reasons for which people take uber rides?
