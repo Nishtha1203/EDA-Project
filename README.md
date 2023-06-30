@@ -1,4 +1,4 @@
-# EDA-Project
+# EDA-Project (Uber Data Analysis)
  EDA stands for Exploratory Data Analysis, it is basically an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
  Here, I have analysed the uber data set with the help of pandas,matplotlib,seaborn libraries.
  My main Project Goals are:
